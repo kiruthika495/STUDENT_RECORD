@@ -1,5 +1,5 @@
 
-                              STUDENT RECORD MANAGEMENT SYSTEM
+                            STUDENT RECORD MANAGEMENT SYSTEM
                               
 PROBLEM STATEMENT:
           Maintaining student records manually is time-consuming and inefficient, especially when handling a large number of students. It is also prone to human errors and makes searching, updating, and organizing records difficult.
@@ -25,7 +25,7 @@ Sort Records:
 The records can be sorted based on:
   .Roll Number
   .Name
-  .Marks/Percentage
+  .Percentage
 
 Modify Record:
   .Records can be searched using Roll Number, Name, or Percentage.
