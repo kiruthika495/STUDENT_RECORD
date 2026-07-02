@@ -8,8 +8,8 @@ SOLUTION:
           To overcome these issues, I developed a Student Record Management System in C. This application digitally manages student records, reducing manual effort and saving time while providing an easy-to-use menu-driven interface.
             
 FEATURES:
-Add Student Record:
 
+Add Student Record:
     .Accepts student details from the user.
     .Automatically generates the next available roll number.
     .After adding a record, the user is asked whether to add another student.
