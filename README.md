@@ -1,5 +1,5 @@
 
-                              Student Record Management System
+                              STUDENT RECORD MANAGEMENT SYSTEM
 PROBLEM STATEMENT:
           .Maintaining student records manually is time-consuming and inefficient, especially when handling a large number of students. It is also prone to human errors and makes searching, updating, and organizing records difficult.
             
