@@ -1,5 +1,6 @@
 
                               STUDENT RECORD MANAGEMENT SYSTEM
+                              
 PROBLEM STATEMENT:
           .Maintaining student records manually is time-consuming and inefficient, especially when handling a large number of students. It is also prone to human errors and makes searching, updating, and organizing records difficult.
             
@@ -42,6 +43,7 @@ Technologies Used:
     Programming Language: C
     Data Structure: Singly Linked List
     File Handling: Text/Binary File Storage
+    
     Concepts: Dynamic Memory Allocation, Functions, Menu-Driven Programming, Sorting, Searching, and File Operations
 
 Result:
